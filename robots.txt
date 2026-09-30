@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eaglecarpetcleaners.squetzaldigital.com/sitemap.xml
